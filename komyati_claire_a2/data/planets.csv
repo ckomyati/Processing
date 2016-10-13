@@ -1,0 +1,10 @@
+Name,Type,Radius (Millions of Meters),Average Orbit (Millions of Kilometers),Day Length (In Earth Days),Mass (In Earth Masses),Year Length (In Earth Years),Gravity (m/s^2),Average Temperature (in Degree C),Number of Moons,Ring System?
+Mercury,Planet,2.44,57.9,58.65,0.06,0.24,3.7,167,0,No
+Venus,Planet,6.05,108.2,243.01,0.82,0.61,8.9,464,0,No
+Earth,Planet,6.38,149.6,1,1,1,9.8,15,1,No
+Mars,Planet,3.4,227.9,1.03,0.11,1.88,3.7,-65,2,No
+Jupiter,Planet,71.4,778.3,0.41,317.9,11.86,23.1,-110,67,Yes
+Saturn,Planet,60.33,1429,0.43,94.29,29.46,9,-140,62,Yes
+Uranus,Planet,25.56,2875,0.72,14.6,84.07,8.7,-195,27,Yes
+Neptune,Planet,24.76,4504,0.67,17.11,164.82,11,-200,14,Yes
+Pluto,Dwarf Planet,1.14,5913,6.39,0.002,247.7,0.6,-225,5,No
